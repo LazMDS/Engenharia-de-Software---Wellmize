@@ -276,7 +276,7 @@ function Statistic() {
                   darkMode ? "text-white" : "text-gray-900"
                 }`}
               >
-                Agendamentos
+                Estatísticas
               </span>
             </div>
             <div className="flex items-center space-x-4">
